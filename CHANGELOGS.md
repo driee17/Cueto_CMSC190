@@ -3,3 +3,5 @@
 * [1, AY 1908-1909] - Enrolled CMSC 190 under MYAdviser
 * [2, AY 1908-1909] - Change of adviser from MYAdviser to NEWAdviser; Re-enrolled CMSC 190 under NEWAdviser
 * [M, AY 1909-1910] - Completed CMSC 190
+
+* [1, AY 2025-2026] - Enrolled CMSC 190 under REORoxas
